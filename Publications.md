@@ -1,6 +1,6 @@
 
 ## Publications
-^equal first author(s)
+^equal first author(s) \
 **Published Manuscripts**
 - **Hernandez, D.J.**^, Kiesewetter, K.N..^, Almeida, B.K., Revillini, D.P., Afkhami, M.E. (2023) Multidimensional specialization and generalization are pervasive in soil prokaryotes. Nature Ecology and Evolution. _(Impact factor: 19.1, Altmetric: 170)_
 - David, A.S.^, **Hernandez, D.J.**, Menges, E.S., Sclater, V.L., Afkhami, M.E., Searcy, C.A. (2023) Heterogeneous landscape promotes distinct microbial communities in an imperiled scrub ecosystem. Mycologia _(Impact factor: 2.8)_

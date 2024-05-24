@@ -4,17 +4,17 @@
 **B.Sc. - Biochemistry & Molecular Biology** | University of Miami _2013_
 
 ## Professional Experience
-**National Science Foundation Postdoctoral Research Fellowship in Biology** | _2024 - Present_
-University of Toronto (Advisor Dr. John R. Stinchcombe)
+**National Science Foundation Postdoctoral Research Fellowship in Biology** | _2024 - Present_ \
+University of Toronto (Advisor Dr. John R. Stinchcombe) \
 Vrije Universiteit Amsterdam (Advisor Dr. Vasilis Kokkoris)
 
-**Postdoctoral Associate** | _2023 - 2024_
+**Postdoctoral Associate** | _2023 - 2024_ \
 University of Miami (Advisor: Dr. Michelle E. Afkhami)
 
-**Research Associate** | _2015 - 2017_
+**Research Associate** | _2015 - 2017_ \
 University of Miami (Advisor: Dr. Nirupa Chaudhari)
 
-**Laboratory Technician** | _2009 - 2013_
+**Laboratory Technician** | _2009 - 2013_ \
 University of Miami
 
 ## Honors and Awards (_Total: $662,225_)
