@@ -1,7 +1,7 @@
 ## Education
-**Ph.D. - Biology** | University of Miami _2023_
-**M.Sc. - Molecular Biology** | Georg-August-Universität Göttingen _2015_
-**B.Sc. - Biochemistry & Molecular Biology** | University of Miami _2013_
+**Ph.D. - Biology** | University of Miami _2023_ \
+**M.Sc. - Molecular Biology** | Georg-August-Universität Göttingen _2015_ \
+**B.Sc. - Biochemistry & Molecular Biology** | University of Miami _2013_ \
 
 ## Professional Experience
 **National Science Foundation Postdoctoral Research Fellowship in Biology** | _2024 - Present_ \

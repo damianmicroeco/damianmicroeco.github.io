@@ -1,11 +1,10 @@
 title: Damian Hernandez
 title_separator: "-"
 logo: /assets/img/profile_field_cropped_circle.png
-description: |
-  NSF PRFB Fellow | Plant-Microbial Ecologist | Data Scientist \
+description: |+
+  NSF PRFB Fellow | Plant-Microbial Ecologist | Data Scientist
   Building genes-to-ecosystems frameworks of how plants and microbes get along.
-  University of Toronto and Vrije Universiteit Amsterdam \
-  [Publications] ({% link /Publications.md %})
+  University of Toronto and Vrije Universiteit Amsterdam 
 theme: jekyll-theme-minimal
 email: damianhernandez.microeco@gmail.com
 twitter: damianmicroeco
