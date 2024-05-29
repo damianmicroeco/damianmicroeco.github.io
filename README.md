@@ -70,17 +70,17 @@ University of Miami
 - **Hernandez, D.**^, David, A., Sclater, V., Menges, E., Searcy, C.A., Afkhami, M.E. (2019) “Understanding fungal and prokaryotic microbiomes across a stress gradient.” Ecological Society of America and United States Society of Ecological Economics Meeting 2019, Louisville, KY, 11-16 August 2019 (Presentation) _Invited talk_
 - **Hernandez, D.**^, David, A., Sclater, V., Menges, E., Searcy, C.A., Afkhami, M.E. (2019) “Drivers of Microbiome Composition across a landscape.” 10th Annual BioGrad Symposium, Fairchild Tropical Botanic Garden, Coral Gables, FL, 11 January 2019 (Presentation).
 
-**Poster Presentations (*presenter)**
-- **Hernandez, D.**^, Afkhami, M.E. (2020) Genetic mechanisms of context dependency: Identifying gene families with putative roles in arbuscular mycorrhizal symbiosis. Mycological Society of America Annual Meeting, Virtual, 22 July 2020 (Poster).
-- **Hernandez, D.**^, Afkhami, M.E. (2020) Genetic mechanisms of context dependency: Identifying gene families with putative roles in arbuscular mycorrhizal symbiosis. 11th Annual BioGrad Symposium, Fairchild Tropical Botanic Garden, Coral Gables, FL, 11 January 2020 (Poster). _First place award_
-- **Hernandez, D.**^, Gari, D., Otaño, L. V., Afkhami, M. E. (2018) Diversity of select membrane-bound proteins as a potential regulatory mechanism of an ancient plant-fungal symbiosis. Southeastern Ecology and Evolution Conference, University of Miami, Coral Gables, FL, 5-7 October 2018 (Poster).
-- **Hernandez, D.**^, Dvoriantchikov, G., Chaudhari, N. (2017) Transcriptomes of gustatory and somatosensory neurons in the geniculate ganglion. 9th Annual BioGrad Symposium, Fairchild Tropical Botanic Garden, Coral Gables, FL, 12 January 2018 (Poster). _First place award_
-- **Hernandez, D.**^, Dvoriantchikov, G., Roebber, J.E., Roper, S.D., Chaudhari, N. (2017) Transcriptomes and neurotransmitter profiles of classes of gustatory and somatosensory neurons in the geniculate ganglion. 26th Annual Neuroscience Research Day, University of Miami Miller School of Medicine, Coral Gables, FL, 1 December 2017 (Poster).
-- Rosales Rivas, J.^, Dvoriantchikov, G., **Hernandez, D.**, Leijon, S., Roper, S.D., Chaudhari, N. (2017) A novel neuron cell type: hybrid chemosensory and mechanosensory neurons. 26th Annual Neuroscience Research Day, University of Miami Miller School of Medicine, Coral Gables, FL, 1 December 2017 (Poster).
-- Dvoriantchikov, G.^, **Hernandez, D.**, Chaudhari, N. (2017) Single-neuron RNA-sequencing of a cranial sensory ganglion. 26th Annual Neuroscience Research Day, University of Miami Miller School of Medicine, Coral Gables, FL, 1 December 2017 (Poster).
-- Dvoriantchikov, G.^, **Hernandez, D.**^, Sun, C., Hill, D.L., Chaudhari, N. (2017) Transcription factors to define taste versus somatosensory neurons of the geniculate ganglion. 39th Annual Meeting of the Association for Chemoreception Sciences, Bonita Springs, FL, 26-29 April 2017 (Poster).
-- Dvoriantchikov, G.^, **Hernandez, D.**, Chaudhari, N. (2016) Transcription factors to define subsets of taste neurons in the geniculate ganglia of adult mice. 46th Annual Meeting of the Society for Neuroscience, San Diego, CA, 12-16 November 2016 (Poster).
-- **Hernandez, D.**^, Dvoriantchikov, G., Chaudhari, N. (2016) The neuronal recognition molecule, Neurexin 1, a potential coordinator of innervation in taste buds. 38th Annual Meeting of the Association for Chemoreception Sciences, Bonita Springs, FL, 20-24 April 2016 (Poster).
+**Poster Presentations**
+- **Hernandez, D.**, Afkhami, M.E. (2020) Genetic mechanisms of context dependency: Identifying gene families with putative roles in arbuscular mycorrhizal symbiosis. Mycological Society of America Annual Meeting, Virtual, 22 July 2020 (Poster).
+- **Hernandez, D.**, Afkhami, M.E. (2020) Genetic mechanisms of context dependency: Identifying gene families with putative roles in arbuscular mycorrhizal symbiosis. 11th Annual BioGrad Symposium, Fairchild Tropical Botanic Garden, Coral Gables, FL, 11 January 2020 (Poster). _First place award_
+- **Hernandez, D.**, Gari, D., Otaño, L. V., Afkhami, M. E. (2018) Diversity of select membrane-bound proteins as a potential regulatory mechanism of an ancient plant-fungal symbiosis. Southeastern Ecology and Evolution Conference, University of Miami, Coral Gables, FL, 5-7 October 2018 (Poster).
+- **Hernandez, D.**, Dvoriantchikov, G., Chaudhari, N. (2017) Transcriptomes of gustatory and somatosensory neurons in the geniculate ganglion. 9th Annual BioGrad Symposium, Fairchild Tropical Botanic Garden, Coral Gables, FL, 12 January 2018 (Poster). _First place award_
+- **Hernandez, D.**, Dvoriantchikov, G., Roebber, J.E., Roper, S.D., Chaudhari, N. (2017) Transcriptomes and neurotransmitter profiles of classes of gustatory and somatosensory neurons in the geniculate ganglion. 26th Annual Neuroscience Research Day, University of Miami Miller School of Medicine, Coral Gables, FL, 1 December 2017 (Poster).
+- Rosales Rivas, J., Dvoriantchikov, G., **Hernandez, D.**, Leijon, S., Roper, S.D., Chaudhari, N. (2017) A novel neuron cell type: hybrid chemosensory and mechanosensory neurons. 26th Annual Neuroscience Research Day, University of Miami Miller School of Medicine, Coral Gables, FL, 1 December 2017 (Poster).
+- Dvoriantchikov, G., **Hernandez, D.**, Chaudhari, N. (2017) Single-neuron RNA-sequencing of a cranial sensory ganglion. 26th Annual Neuroscience Research Day, University of Miami Miller School of Medicine, Coral Gables, FL, 1 December 2017 (Poster).
+- Dvoriantchikov, G., **Hernandez, D.**^, Sun, C., Hill, D.L., Chaudhari, N. (2017) Transcription factors to define taste versus somatosensory neurons of the geniculate ganglion. 39th Annual Meeting of the Association for Chemoreception Sciences, Bonita Springs, FL, 26-29 April 2017 (Poster).
+- Dvoriantchikov, G., **Hernandez, D.**, Chaudhari, N. (2016) Transcription factors to define subsets of taste neurons in the geniculate ganglia of adult mice. 46th Annual Meeting of the Society for Neuroscience, San Diego, CA, 12-16 November 2016 (Poster).
+- **Hernandez, D.**, Dvoriantchikov, G., Chaudhari, N. (2016) The neuronal recognition molecule, Neurexin 1, a potential coordinator of innervation in taste buds. 38th Annual Meeting of the Association for Chemoreception Sciences, Bonita Springs, FL, 20-24 April 2016 (Poster).
 
 ## Service
 **Departmental**
@@ -97,5 +97,5 @@ University of Miami
 - Botanical Society of America (2018-2020)
 - Association for Chemoreception Sciences (2015-2017)
 
-**Reviewer**
+**Reviewer** \
 _Molecular Ecology, Science China Life Sciences, Ecology, Science of the Total Environment, Symbiosis, Journal of Applied Ecology_
