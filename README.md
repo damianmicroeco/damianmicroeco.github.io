@@ -24,6 +24,7 @@ University of Miami (Advisor: Dr. Nirupa Chaudhari)
 University of Miami
 
 ## Honors and Awards (_Total: $662,225_)
+- 2025 - Travel Award, Mycological Societies of America and Japan (_$2,500_)
 - 2024-2027 - NSF Postdoctoral Research Fellowship in Biology, NSF (_$240,000_)
 - 2023 - Graduate Student Spotlight, University of Miami, Department of Biology
 - 2022 - Best Graduate Student Paper, University of Miami, Department of Biology
@@ -43,6 +44,7 @@ University of Miami
 ## Publications
 ^equal first author(s) \
 **Published Manuscripts**
+- Rawstern, A.H.E.^, **Hernandez, D.J.**, Afkhami, M.E. (2025) Central taxa are keystone microbes during early succession. _Ecology Letters._ _(Impact factor: 7.6)_
 - **Hernandez, D.J.**^, Kiesewetter, K.N..^, Almeida, B.K., Revillini, D.P., Afkhami, M.E. (2023) Multidimensional specialization and generalization are pervasive in soil prokaryotes. _Nature Ecology and Evolution._ _(Impact factor: 19.1, Altmetric: 170)_
 - David, A.S.^, **Hernandez, D.J.**, Menges, E.S., Sclater, V.L., Afkhami, M.E., Searcy, C.A. (2023) Heterogeneous landscape promotes distinct microbial communities in an imperiled scrub ecosystem. _Mycologia._ _(Impact factor: 2.8)_
 - **Hernandez, D.J.**^, David, A.^, Menges, E., Searcy, C.A., Afkhami, M.E. (2021) Environmental stress destabilizes microbial networks. _The ISME Journal._ 15 (6), 1722-1734. _(Impact factor: 10.3, Citations: 442) 2021 Best Paper in ISME Short List, Departmental Award for Best Paper, 2021 Most Cited ISME Paper_
@@ -53,13 +55,13 @@ University of Miami
 - **Hernandez, D.**^, Kiesewetter, K.N.^, Palakurty, S., Stinchcombe, J.R., Afkhami, M.E. (2020). “Synergism and symbioses: Unpacking complex mutualistic species interactions using transcriptomic approaches.” _The Model legume Medicago truncatula._ Hoboken, NJ: Wiley-Blackwell
 
 **In review**
-- Rawstern, A.H.E.^, **Hernandez, D.J., Afkhami**, M.E. (in review) Central taxa are keystone microbes during early succession.
 - **Hernandez, D.J.**^, Pohlmann, G.B., Afkhami, M.E. (in review) Gene family expansions underpin genetic regulation and evolution of context-dependency in the oldest plant-mycorrhizal symbiosis.
 
 **In prep**
 - Tserej, O.^,  **Hernandez, D.J.**, Rawstern, A.H.E., Kiesewetter, K.N., Almeida, B. K., Feeley, K.J., Afkhami, M.E. (in prep) Do leaf temperatures determine endophyte composition, richness and abundance in tropical plant species?
 
 **Presentations**
+- **Hernandez, D.**^, Pohlmann, G.B., Afkhami, M.E. (2024) Gene family expansions create genetic complexity underlying context-dependent regulation of arbuscular mycorrhizal symbiosis. Mycological Society of America 2024 Meeting. Toronto, Canada, 9-12 Jun 2024, Talk.
 - **Hernandez, D.**^, Rawstern, A.H.E., Afkhami, M.E. (2023) Networks as diagnostic tools to understand community stability and identify microbial keystones. Mycological Society of America 2023 Meeting. Flagstaff, AZ, USA, 29 Jul-3 Aug 2023, _Invited talk_
 - **Hernandez, D.**^, Pohlmann, G.B., Afkhami, M.E. (2022) Gene family size is an important feature in context-dependency of plant-fungal symbiosis. Ecological Society of America 2022 Meeting. Montreal, Canada, 14-19 Aug 2022, Talk.
 - **Hernandez, D.**^, Pohlmann, G.B., Afkhami, M.E. (2022) Gene family size is an important feature in context-dependency of plant-fungal symbiosis. Mycological Society of America 2022 Meeting. Gainesville, FL, USA. 10-14 Jul 2022, Talk.
@@ -98,4 +100,4 @@ University of Miami
 - Association for Chemoreception Sciences (2015-2017)
 
 **Reviewer** \
-_Molecular Ecology, Science China Life Sciences, Ecology, Science of the Total Environment, Symbiosis, Journal of Applied Ecology_
+_Molecular Ecology, Science China Life Sciences, Ecology, Science of the Total Environment, Symbiosis, Journal of Applied Ecology, Environmental Microbiology_
