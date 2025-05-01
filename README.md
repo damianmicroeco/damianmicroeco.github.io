@@ -4,6 +4,8 @@ I'm an NSF Postdoctoral Fellow in the labs of [Drs. John Stinchcombe (University
 <br>
 Send me an email if you want to chat!
 
+[Email](mailto:damianhernandez.microeco@gmail.com) | [Website](https://damianmicroeco.wixsite.com/my-site) | [Bluesky](https://bsky.app/profile/damianmicroeco.bsky.social)
+
 ## Education
 **Ph.D. - Biology** | University of Miami _2023_ \
 **M.Sc. - Molecular Biology** | Georg-August-Universität Göttingen _2015_ \
